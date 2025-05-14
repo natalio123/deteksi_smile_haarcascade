@@ -45,7 +45,7 @@ matplotlib==3.7.1
 1. Clone repository ini:
    ```bash
    git clone https://github.com/natalio123/deteksi_smile_haarcascade.git
-   cd aplikasi-deteksi-senyum
+   cd deteksi_smile_haarcascade
    ```
 
 2. Buat dan aktifkan virtual environment (opsional tapi direkomendasikan):
