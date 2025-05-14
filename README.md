@@ -50,13 +50,13 @@ matplotlib==3.7.1
 
 2. Buat dan aktifkan virtual environment (opsional tapi direkomendasikan):
    ```bash
-   python -m venv venv
+   python<version> -m venv .env
    
    # Pada Windows
-   venv\Scripts\activate
+   .env\Scripts\activate
    
    # Pada macOS/Linux
-   source venv/bin/activate
+   source .env/bin/activate
    ```
 
 3. Instal semua persyaratan:
