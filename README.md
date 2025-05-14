@@ -1,7 +1,7 @@
 
 # 😊 Aplikasi sederhana Deteksi Senyum
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.7.0-green.svg)](https://opencv.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.23.5-yellow.svg)](https://numpy.org/)
 
