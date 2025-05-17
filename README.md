@@ -1,5 +1,5 @@
 
-# 😊 Aplikasi sederhana Deteksi Senyum
+# 😊 Aplikasi Sederhana Deteksi Senyum
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.7.0-green.svg)](https://opencv.org/)
@@ -29,7 +29,7 @@ Projek ini dikembangkan sebagai bagian dari mata kuliah Computer Vision oleh:
 | TRI GIANTO SALENDAH            |220211060029   |
 | NATALIO MICHAEL TUMUAHI        |220211060042   | 
 
-Dosen Pengampu: Muhammad D. Putro, S.T, M.Eng
+Dosen Pengampu: Muhammad D. Putro, S.T, M.Eng. Ph.D
 
 
 ## 🔧 Persyaratan
